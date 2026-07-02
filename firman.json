@@ -1,0 +1,92 @@
+{
+  "target": {
+    "nama": "FIRMAN HERMANSYAH",
+    "nik": "3212151305100002",
+    "nkk": "3212150506094426",
+    "ttl": "INDRAMAYU, 13-05-2010",
+    "jenis_kelamin": "LAKI-LAKI",
+    "alamat": "PEKARANGAN JAYA, BLOK KUD",
+    "rt_rw": "017/009",
+    "kode_pos": "45216",
+    "kecamatan": "INDRAMAYU",
+    "kabupaten": "INDRAMAYU",
+    "provinsi": "JAWA BARAT"
+  },
+  "ayah": {
+    "nama": "HERMANTO",
+    "nik": "3212152105820004",
+    "pendidikan": "SMA",
+    "ttl": "INDRAMAYU, 21-05-1982",
+    "pekerjaan": "SOPIR"
+  },
+  "ibu": {
+    "nama": "SAJINAH",
+    "nik": "3212156507800002",
+    "ttl": "INDRAMAYU, 25-07-1980",
+    "pekerjaan": "MENGURUS RUMAH TANGGA"
+  },
+  "kartu_keluarga": {
+    "no_kk": "3212150506094426",
+    "kepala_keluarga": "HERMANTO",
+    "alamat": "JAWA BARAT, INDRAMAYU, INDRAMAYU, PEKANDANGAN JAYA, BLOK K.U.D, RT/RW 17/09",
+    "anggota": [
+      {
+        "nik": "3212156507800002",
+        "nama": "SAJINAH",
+        "jenis_kelamin": "Perempuan",
+        "ttl": "INDRAMAYU, 1980-07-25",
+        "status_kawin": "Menikah",
+        "pekerjaan": "MENGURUS RUMAH TANGGA",
+        "golongan_darah": "-",
+        "alamat": "JAWA BARAT, INDRAMAYU, INDRAMAYU, PEKANDANGAN JAYA, BLOK K.U.D, RT/RW 17/09"
+      },
+      {
+        "nik": "3212152105820004",
+        "nama": "HERMANTO",
+        "jenis_kelamin": "Laki-laki",
+        "ttl": "INDRAMAYU, 1982-05-21",
+        "status_kawin": "Menikah",
+        "pekerjaan": "TIDAK DIKETAHUI",
+        "golongan_darah": "-",
+        "alamat": "JAWA BARAT, INDRAMAYU, INDRAMAYU, PEKANDANGAN JAYA, PEKANDANGAN JAYA, RT/RW 17/09"
+      }
+    ]
+  },
+  "bpjs_ibu": {
+    "no_kartu": "0001484189032",
+    "nik": "3212156507800002",
+    "nama_peserta": "SAJINAH",
+    "tanggal_lahir": "1980-07-25",
+    "jenis_kelamin": "P",
+    "jumlah_tanggungan": 1,
+    "usia_saat_ini": "45 tahun, 11 bulan, 6 hari",
+    "usia_saat_pelayanan": "45 tahun, 11 bulan, 6 hari",
+    "jenis_kepesertaan": "PEKERJA MANDIRI - [14]",
+    "hak_kelas": "KELAS III - [3]",
+    "kode_faskes_1": "0128U028",
+    "nama_faskes_1": "KLINIK PRAGA MEDIKA",
+    "tanggal_cetak_kartu": "2025-01-07",
+    "tanggal_tat": "2050-01-01",
+    "tanggal_tmt": "2014-12-01",
+    "status": "Status tidak ditemukan"
+  },
+  "bpjs_ayah": {
+    "no_kartu": "0001484188705",
+    "nik": "3212152105820004",
+    "nama_peserta": "HERMANTO",
+    "tanggal_lahir": "1982-05-21",
+    "jenis_kelamin": "L",
+    "jumlah_tanggungan": 1,
+    "usia_saat_ini": "44 tahun, 1 bulan, 10 hari",
+    "usia_saat_pelayanan": "44 tahun, 1 bulan, 10 hari",
+    "jenis_kepesertaan": "PEGAWAI SWASTA - [13]",
+    "hak_kelas": "KELAS II - [2]",
+    "kode_faskes_1": "10210102",
+    "nama_faskes_1": "PLUMBON",
+    "tanggal_cetak_kartu": "2025-02-03",
+    "tanggal_tat": "2050-12-31",
+    "tanggal_tmt": "2014-12-01",
+    "prolanis_prb": "Potensi PRB",
+    "status": "Status tidak ditemukan"
+  }
+}
